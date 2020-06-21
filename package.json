@@ -1,0 +1,22 @@
+{
+  "name": "express-assistant",
+  "version": "1.0.0",
+  "description": "Express typescript, class-based assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "typescript",
+    "ts",
+    "javascript",
+    "nodejs",
+    "server",
+    "backend",
+    "assistant"
+  ],
+  "author": "Mohamed Sharif",
+  "license": "MIT"
+}
